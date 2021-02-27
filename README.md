@@ -10,3 +10,5 @@ Options available
 4. Delete a contact
 5. Display existing contacts
 6. Display contacts by groups
+
+All contacts are saved in `contacts.json` file
