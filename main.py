@@ -1,7 +1,6 @@
 import json
 from os import getcwd, path
 
-print('Hello world')
 cwd = getcwd()
 try:
     contacts = json.load(open(path.join(cwd, 'contacts.json'), 'r'))
